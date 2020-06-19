@@ -1,5 +1,7 @@
 # hn-top
-A command line tool that shows the top stories from [Hacker News](https://news.ycombinator.com/) using the [Hacker News API from Firebase](https://github.com/HackerNews/API). 
+A command line tool that shows the top stories from [Hacker News](https://news.ycombinator.com/) using the [Hacker News API from Firebase](https://github.com/HackerNews/API).
+
+![hn-top Output](https://github.com/amscotti/hn-top/blob/master/hn-top.png?raw=true)
 
 ## Running
 
